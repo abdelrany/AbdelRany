@@ -33,7 +33,7 @@
   <h3> Web Developer adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. Comfortable working with NodeJS, NestJS, ReactJS,TypeScript and GraphQL.</h3>
 </p>
 
----
+## <br />
 
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
@@ -223,38 +223,6 @@
 
 </p>
 
-<!-- ## Devices / Manufacturers
-
-<p align="left">
-<a href="#">
-    <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/devices/nintendo.svg" alt="nintendo" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/devices/playstation.svg" alt="playstation" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/devices/wearables.svg" alt="wearables" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-</p> -->
-<!-- <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
-   </p>
-
-<!--  -->
-<!-- <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api?username=abdelrany&&show_icons=true&theme=radical"/>
-  </a> -->
-
----
-
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -276,6 +244,8 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=abdelrany&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+## <br />
 
 ## <hr>
 
