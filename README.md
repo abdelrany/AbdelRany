@@ -29,19 +29,6 @@
   <h3> Web Developer adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. Comfortable working with NodeJS, NestJS, ReactJS,TypeScript and GraphQL.</h3>
 </p>
 
-- 🥀 Learning Swift & Objective_C
-
-- <i>with Javascript, Typescript, React and 69 others.</i>
-- 🔭 SpaceX FanBoi, die for space😼
-
-- 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
-
-- I do fullstack and a bit of everything :heart:
-
-- All About living life at its best.
-
-- 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
-
  <p align="center">
   <h4> Full Stack | Typescript | Competitive Programming </h4>
    </p>
@@ -50,7 +37,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=abdelrany&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
