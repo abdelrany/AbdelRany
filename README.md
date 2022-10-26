@@ -5,9 +5,9 @@
 </h1>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/abdelrany/"><img height="30" src="svg/socail/linkedin.svg"></a>&nbsp;&nbsp;
-   <a href="mailto: abdelghani.salama@outlook.com"><img height="30" src="svg/socail/outlook.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/abdel_rany"><img height="30" src="svg/socail/twitter.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/abdelrany/"><img height="30" src="svg/social/linkedin.svg"></a>&nbsp;&nbsp;
+   <a href="mailto: abdelghani.salama@outlook.com"><img height="30" src="svg/social/outlook.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/abdel_rany"><img height="30" src="svg/social/twitter.svg"></a>&nbsp;&nbsp;
 <!-- <a href="https://www.facebook.com/and1bbj"><img height="30" src="./facebook.png"></a>&nbsp;&nbsp; -->
 
 <div align="center">
