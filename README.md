@@ -56,7 +56,7 @@
     <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="svg/dev/frameworks/nest.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/frameworks/nestjs-ar21.svg" alt="nestJs" style="vertical-align:top; margin:6px 4px">
   </a>
    <a href="#">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
