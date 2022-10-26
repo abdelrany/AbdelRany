@@ -6,7 +6,7 @@
    <a href="https://www.linkedin.com/in/abdelrany/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/abdel_rany"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <!-- <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp; -->
-<a href="https://www.facebook.com/and1bbj"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/and1bbj"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Abdelghani Salama | 💻 Full Stack Developer | 🛸 Morocco, Casablanca <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -19,7 +19,7 @@
  </p>
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>⚡️Never stop learning; knowledge doubles every fourteen months.⚡️</i>
   </h5>
  
  
