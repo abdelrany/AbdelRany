@@ -35,11 +35,11 @@
 
 ## <br />
 
-## Developer Tech
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
-<hr>
+<!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+<br> -->
 
 ### Languages
 
