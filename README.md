@@ -35,11 +35,9 @@
 
 ## <br />
 
-## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+---
 
-<!-- <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br> -->
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
 ### Languages
 
