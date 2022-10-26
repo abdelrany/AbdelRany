@@ -42,9 +42,7 @@
 
 </p>
 
-<br />
-```
----
+## <br />
 
 ## Developer Tech
 
@@ -52,9 +50,14 @@
 
 <p align="left">
   <a href="#">
-    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a>
-
+   <a href="#">
+    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/frameworks/nest.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+  </a>
    <a href="#">
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -67,50 +70,11 @@
     <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="#">
-    <img src="svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/frameworks/phonegap.svg" alt="phonegap" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/frameworks/qt.svg" alt="qt" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/frameworks/sencha.svg" alt="sencha" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
-    <img src="svg/dev/frameworks/uwp.svg" alt="uwp" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:6px 4px">
-  </a>
-
 </p>
 
 ### Languages
 
 <p align="left">
-  <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>
 
    <a href="#">
     <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
@@ -122,18 +86,6 @@
 
   <a href="#">
     <img src="svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/languages/dart_colour.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
-    <img src="svg/dev/languages/fsharp.svg" alt="fsharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
- 
-  <a href="#">
-    <img src="svg/dev/languages/fsharp_dotnet.svg" alt="fsharp_dotnet" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
@@ -153,10 +105,6 @@
   </a>
 
   <a href="#">
-    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -170,10 +118,6 @@
 
   <a href="#">
     <img src="svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
   </a>
 
 </p>
@@ -207,14 +151,6 @@
 
    <a href="#">
     <img src="svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
-    <img src="svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
-    <img src="svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
   </a>
 
    <a href="#">
@@ -332,50 +268,6 @@
 
   <a href="#">
     <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_appcode.svg" alt="jetbrains_appcode" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_clion.svg" alt="jetbrains_clion" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_datagrip.svg" alt="jetbrains_datagrip" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_datalore.svg" alt="jetbrains_datalore" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_goland.svg" alt="jetbrains_goland" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_phpstorm.svg" alt="jetbrains_phpstorm" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_rider.svg" alt="jetbrains_rider" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_rubymine.svg" alt="jetbrains_rubymine" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
