@@ -1,6 +1,11 @@
-<div align="center">
+<!-- <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Abdel rany</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
+</div> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abdel+Rany....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/abdelrany/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -217,8 +222,6 @@
   </a>
 
 </p>
-
----
 
 ## Devices / Manufacturers
 
