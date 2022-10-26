@@ -6,6 +6,7 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/abdelrany/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="mailto: abdelghani.salama@outlook.com"><img height="30" src="./gmail.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/abdel_rany"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/and1bbj"><img height="30" src="./facebook.png"></a>&nbsp;&nbsp;
 
@@ -13,11 +14,6 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Abdelghani Salama | 💻 Full Stack Developer | 🛸 Morocco, Casablanca <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-<p align="center">
-   <a href="https://twitter.com/abdel_rany"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abdel_ranyww?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@abdel_rany"></a>
-   <br>
- </p>
- 
  <h5 align="center">
    <i>⚡️Never stop learning; knowledge doubles every fourteen months.⚡️</i>
   </h5>
@@ -262,6 +258,8 @@
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️</p>
+
+## <br />
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
