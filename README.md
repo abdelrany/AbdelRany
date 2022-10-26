@@ -30,7 +30,11 @@
 
 ## <br />
 
+<div align="center">
+
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+
+</div>
 
 ### Languages
 
@@ -220,7 +224,11 @@
 
 ## <br />
 
+<div align="center">
+
 ## ⚡ Stats ⚡
+
+</div>
 
 <p align=center>
   <div align=center>
