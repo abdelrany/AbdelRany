@@ -33,8 +33,6 @@
   <h3> Web Developer adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. Comfortable working with NodeJS, NestJS, ReactJS,TypeScript and GraphQL.</h3>
 </p>
 
-## <br />
-
 ---
 
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥
