@@ -28,19 +28,6 @@
   <h3> Web Developer adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. Comfortable working with NodeJS, NestJS, ReactJS,TypeScript and GraphQL.</h3>
 </p>
 
- <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
-   </p>
-
-<!--  -->
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=abdelrany&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
-
 ## <br />
 
 ## Developer Tech
@@ -182,23 +169,11 @@
   </a>
 
   <a href="#">
-    <img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
     <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
@@ -265,8 +240,40 @@
   </a>
 
 </p>
+<p align="center">
+  <h4> Full Stack | Typescript | Competitive Programming </h4>
+   </p>
 
----
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=abdelrany&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+## <hr>
 
 <h2 align="center">🤝 Support</h2>
 
