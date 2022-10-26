@@ -240,16 +240,18 @@
   </a>
 
 </p>
-<p align="center">
+<!-- <p align="center">
   <h4> Full Stack | Typescript | Competitive Programming </h4>
    </p>
 
 <!--  -->
 
+## <br />
+
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=abdelrany&&show_icons=true&theme=radical"/>
-  </a>
+  </a> -->
 
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
