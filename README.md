@@ -6,9 +6,8 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/abdelrany/"><img height="30" src="svg/social/linkedin.svg"></a>&nbsp;&nbsp;
-   <a href="mailto: abdelghani.salama@outlook.com"><img height="30" src="svg/social/outlook.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/abdel_rany"><img height="30" src="svg/social/twitter.svg"></a>&nbsp;&nbsp;
-<!-- <a href="https://www.facebook.com/and1bbj"><img height="30" src="./facebook.png"></a>&nbsp;&nbsp; -->
+   <a href="mailto: abdelghani.salama@outlook.com"><img height="30" src="svg/social/email_me.svg"></a>&nbsp;&nbsp;
+   <a href="https://twitter.com/abdel_rany"><img height="30" src="svg/social/twitter.svg"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Abdelghani Salama | 💻 Full Stack Developer | 🛸 Morocco, Casablanca <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
