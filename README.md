@@ -26,11 +26,11 @@
 
 ## <br />
 
-<div align="center">
+<h2 align="center">
 
 ## 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
-</div>
+</h2>
 
 ### Languages
 
