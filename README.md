@@ -244,7 +244,11 @@
 
 ## <br />
 
+<div style="font-style: italic; text-align: center;" markdown="1">
+
 ## 🤝 Support
+
+</div>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
