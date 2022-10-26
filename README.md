@@ -223,7 +223,7 @@
 
 </p>
 
-##<h2 align="center">⚡ Stats ⚡</h2>
+##⚡ Stats ⚡
 <br>
 
 <p align=center>
@@ -245,7 +245,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=abdelrany&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<h2 align="center">🤝 Support</h2>
+##🤝 Support
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
