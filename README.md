@@ -245,13 +245,12 @@
    </p>
 
 <!--  -->
+<!-- <p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api?username=abdelrany&&show_icons=true&theme=radical"/>
+  </a> --> -->
 
 ## <br />
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=abdelrany&&show_icons=true&theme=radical"/>
-  </a> -->
 
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
