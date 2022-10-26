@@ -224,6 +224,7 @@
 </p>
 
 </p>
+## <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -244,8 +245,6 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=abdelrany&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-## <br />
 
 ## <hr>
 
