@@ -1,6 +1,3 @@
-<!-- <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Abdel rany</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div> -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abdel+Rany....;Nice+to+meet+you!&center=true&size=30">
@@ -10,7 +7,6 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/abdelrany/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/abdel_rany"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<!-- <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp; -->
 <a href="https://www.facebook.com/and1bbj"><img height="30" src="./facebook.png"></a>&nbsp;&nbsp;
 
 <div align="center">
@@ -223,8 +219,9 @@
 
 </p>
 
-##⚡ Stats ⚡
-<br>
+## <br />
+
+## ⚡ Stats ⚡
 
 <p align=center>
   <div align=center>
@@ -245,7 +242,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=abdelrany&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-##🤝 Support
+## <br />
+
+## 🤝 Support
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
