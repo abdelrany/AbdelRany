@@ -31,38 +31,8 @@
 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
 </h1>
-<br>
-<p align="center">
-  <code><img title="Javascript" height="25" src="svg/dev/languages/js.svg"></code>
-  <code><img title="Typescript" height="25" src="svg/dev/languages/typescript.svg"></code>
-  <code><img title="Java" height="25" src="svg/dev/languages/java.svg"></code>
-  <code><img title="Dart" height="25" src="svg/dev/languages/dart.svg"></code>
-  <code><img title="C#" height="25" src="svg/dev/languages/dart.svg"></code>
-  <code><img title="CSS" height="25" src="svg/dev/languages/css3.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="Python" height="25" src="svg/dev/languages/python.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="React" height="25" src="svg/dev/frameworks/react.svg"></code>
-  <code><img title="NodeJS" height="25" src="svg/dev/frameworks/nodejs.svg"></code>
-  <code><img title="NestJS" height="25" src="svg/dev/frameworks/nestjs.svg"></code>
-  <code><img title=".NetCore" height="25" src=""></code>
-  <code><img title="GraphQL" height="25" src=""></code>
-  <code><img title="Redux" height="25" src=""></code>
-  <code><img title="MongoDB" height="25" src=""></code>
-  <code><img title="PostgreSQL" height="25" src=""></code>
-  <code><img title="MySQL" height="25" src=""></code>
-  <code><img title="Android" height="25" src=""></code>
-  <code><img title="Visual Studio Code" height="25" src=""></code>
-  <code><img title="Microsoft Visual Studio" height="25" src=""></code>
-  <code><img title="Problem Solving" height="25" src=""></code>
-  <code><img title="JQuery" height="25" src="svg/dev/frameworks/jquery.svg"></code>
-  <code><img title="Git" height="25" src=".svg"></code>
-  <code><img title="JSON" height="25" src=""></code>
-  <code><img title="npm" height="25" src=""></code>
-</p>
-<hr>
 
-<!-- ### Languages
+### Languages
 
 <p align="left">
 <a href="#">
@@ -199,10 +169,6 @@
   </a>
 
   <a href="#">
-    <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
     <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -212,7 +178,7 @@
 
 </p>
 
-### Tools -->
+### Tools
 
 <p align="left">
 <a href="#">
