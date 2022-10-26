@@ -165,16 +165,16 @@
 ### Services
 
 <p align="left">
+
+  <a href="#">
+    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="#">
     <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
     <img src="svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
@@ -198,10 +198,6 @@
   </a>
 
   <a href="#">
-    <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
     <img src="svg/dev/services/nuget.svg" alt="nuget" style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -214,7 +210,9 @@
 ### Tools
 
 <p align="left">
-
+<a href="#">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a>
   <a href="#">
     <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -237,10 +235,6 @@
 
   <a href="#">
     <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
