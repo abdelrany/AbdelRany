@@ -214,6 +214,11 @@
 ### Tools
 
 <p align="left">
+
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+  </a>
+
   <a href="#">
     <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -231,15 +236,7 @@
   </a>
 
   <a href="#">
-    <img src="svg/dev/tools/linqpad.svg" alt="linqpad" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
     <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="#">
