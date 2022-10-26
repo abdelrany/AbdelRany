@@ -26,11 +26,11 @@
 
 ## <br />
 
-<h2 align="center">
+<h1 align="center">
 
 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
-</h2>
+</h1>
 
 ### Languages
 
@@ -220,11 +220,11 @@
 
 ## <br />
 
-<div align="center">
+<h1 align="center">
 
-## ⚡ Stats ⚡
+⚡ Stats ⚡
 
-</div>
+</h1>
 
 <p align=center>
   <div align=center>
@@ -247,11 +247,11 @@
 
 ## <br />
 
-<div align="center">
+<h1 align="center">
 
-## 🤝 Support
+🤝 Support
 
-</div>
+</h1>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
