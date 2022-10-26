@@ -24,7 +24,6 @@
  
  
 <br />
-<!-- <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /> -->
 <p align="center">
   <h3> Web Developer adept in all stages of advanced web development. Knowledgeable in the user interface, testing, and debugging processes. Comfortable working with NodeJS, NestJS, ReactJS,TypeScript and GraphQL.</h3>
 </p>
@@ -244,7 +243,7 @@
 
 ## <br />
 
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style=" text-align: center;" >
 
 ## 🤝 Support
 
