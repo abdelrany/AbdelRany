@@ -70,5 +70,10 @@ Hi! I'm Abdelghani Salama, a passionate web and mobile developer from Casablanca
 ### 😂Random Dev Meme
 <img src="https://meme-api.com/gimme" width="512px"/>
 
+###  Random Dev Meme
+
+Check out a random developer meme on [Meme Generator](https://meme-api.com/gimme).
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=abdelrany&icon=0&color=0)](https://visitcount.itsvg.in)
