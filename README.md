@@ -68,9 +68,7 @@ Hi! I'm Abdelghani Salama, a passionate web and mobile developer from Casablanca
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src="https://meme-api.com/gimme" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdelrany&icon=0&color=0)](https://visitcount.itsvg.in)
