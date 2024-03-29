@@ -69,7 +69,6 @@ Hi! I'm Abdelghani Salama, a passionate web and mobile developer from Casablanca
 
 ### 😂Random Dev Meme
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MOKp0Jew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.probytes.net/wp-content/uploads/2018/01/4-1.png" width="512px"/>
-![Meme](https://res.cloudinary.com/practicaldev/image/fetch/s--MOKp0Jew--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://www.probytes.net/wp-content/uploads/2018/01/4-1.png)
 
 
 ---
