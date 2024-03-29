@@ -11,13 +11,6 @@ Hi! I'm Abdelghani Salama, a passionate web and mobile developer from Casablanca
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB): Crafting mobile apps at the speed of light ⚡️  
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white): SSR for the win!  
 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E){: align=center}  : The king of the web
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB){: align=center}                 : Building UIs that rock! ⚛️
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB){: align=center}   : Crafting mobile apps at the speed of light ⚡️
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white){: align=center}                          : SSR for the win!
-
-
 ... and many more to come!  
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,7 +61,7 @@ Hi! I'm Abdelghani Salama, a passionate web and mobile developer from Casablanca
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=abdelrany&theme=react&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdelrany&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdelrany&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrany&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️Random Dev Quote
@@ -76,6 +69,8 @@ Hi! I'm Abdelghani Salama, a passionate web and mobile developer from Casablanca
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdelrany&icon=0&color=0)](https://visitcount.itsvg.in)
