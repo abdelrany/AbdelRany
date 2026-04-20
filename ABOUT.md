@@ -1,7 +1,7 @@
-Hii,
+This repository stores the assets and profile content for my GitHub presence.
 
+Recent refresh goals:
 
-For github Stats: https://github.com/anuraghazra/github-readme-stats
-
-
-For Github Badges: https://github.com/MikeCodesDotNET/ColoredBadges
+- Make the README easier to scan.
+- Highlight current strengths instead of listing everything.
+- Keep the profile professional and up to date.
